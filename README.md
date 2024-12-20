@@ -91,5 +91,5 @@
 <br>
 <p>Thank you for checking out the Lottery Number Generator! Remember to play responsibly and good luck!</p>
 
-<p>Louis. My Reddit: [Turbulent_Goat1988](https://www.reddit.com/user/Turbulent_Goat1988/)</p>
+**Louis.** My Reddit: [Turbulent_Goat1988](https://www.reddit.com/user/Turbulent_Goat1988)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
